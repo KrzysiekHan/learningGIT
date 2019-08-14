@@ -1,4 +1,8 @@
 jakieœ coœ ale
 albo nie bum
 trzecia linia
+<<<<<<< HEAD
 dodany branch
+=======
+dodany branch noweprace
+>>>>>>> nowePrace
