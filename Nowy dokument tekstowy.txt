@@ -6,3 +6,5 @@ dodatkowe zmiany
 changes iss53
 nowy branch
 190820
+experiment22
+
