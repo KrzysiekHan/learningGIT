@@ -6,3 +6,4 @@ dodatkowe zmiany
 changes iss53
 nowy branch
 190820
+some changes in master branch
