@@ -4,3 +4,4 @@ trzecia linia
 czwarta linia kompletna
 dodatkowe zmiany
 zmiany testowe marzec 2020
+jednak kontynuacja gałęzi testing
