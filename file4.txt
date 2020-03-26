@@ -1,2 +1,3 @@
 plik 4 ma jakieœ zmiany
 some test changes to stash
+changes in branch zmianaNazwy2
