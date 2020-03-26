@@ -10,3 +10,4 @@ some changes in master branch
 some changes in master branch 2
 zmiany marzec 2020
 nowy branch
+changes in master branch
